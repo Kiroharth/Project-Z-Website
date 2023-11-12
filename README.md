@@ -1,4 +1,4 @@
-![alt text](https://github.com/Kiroharth/Project-Z-Website/blob/main/Logo_White.png?raw=true)
+![alt text](https://github.com/kiroharth/Project-Z-Website.git/blob/main/Logo_White.png?raw=true)
 #Project-Z-Website
 ## Goals:<br> 
 1. Better your life with the help of "Quests".<br> 
