@@ -1,4 +1,5 @@
-# Project-Z-Website
+![alt text](https://github.com/Kiroharth/Project-Z-Website/blob/main/Logo_White.png?raw=true)
+#Project-Z-Website
 ## Goals:<br> 
 1. Better your life with the help of "Quests".<br> 
 2. Use the character and stat system to track your progress. <br>
